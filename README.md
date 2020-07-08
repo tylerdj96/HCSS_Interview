@@ -1,3 +1,20 @@
+# Getting Started
+
+From the console, run:
+
+```
+npm install
+npm start
+```
+
+in a different console window, run
+
+```
+npm run api
+```
+
+# Instructions
+
 Create an application that shows weather and wind data for a chosen city:
 
 1. When the user opens the website, load a list of cities using the fetchCities function from api.ts
