@@ -1,6 +1,12 @@
-Create an application that shows weather and wind data for a city
+Create an application that shows weather and wind data for a chosen city:
 
-The app should:
+1. When the user opens the website, load a list of cities using the fetchCities function from api.ts
+2. When the cities are done loading, display them on the page
+3. When the user selects a city, load the weather data using the fetchWeather function from api.ts
+4. When the weather data is done loading, show the weather description and wind information
 
-- Allow users to select from a list of cities (use the fetchCities function from api.ts)
-- Allow users to switch between viewing weather data and wind data (use the fetchWeather function from api.ts)
+Notes:
+Feel free to ask any questions
+Don't worry about CSS
+Don't worry about typescript, you can use `any` if any errors come up
+It's okay to use google
