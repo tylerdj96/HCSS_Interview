@@ -24,7 +24,7 @@ Create an application that shows weather and wind data for a chosen city:
   - Page 1: Show the weather and weather description to the user
   - Page 2: Show the wind speed and direction to the user
 
-  - When any request is made, display some sort of loading state for the user until the data is successfully loaded
+When any request is made, display some sort of loading state for the user until the data is successfully loaded
 
 Notes:
 Feel free to ask any questions
